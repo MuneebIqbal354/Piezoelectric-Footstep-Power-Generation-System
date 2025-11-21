@@ -18,6 +18,8 @@ Built around an **Arduino Uno**, the system utilizes **piezoelectric transducers
 | **Prototyping** | Breadboard & Wires | For assembly and connections. |
 
 
+![licensed-image](https://github.com/user-attachments/assets/6fbaeb78-2837-4fa1-8e3b-d18d3b6b59bd)
+
 ## System Architecture
 
 The system operates in three distinct stages to harvest and utilize energy:
