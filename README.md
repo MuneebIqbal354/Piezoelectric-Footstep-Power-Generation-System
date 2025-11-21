@@ -5,7 +5,7 @@ This project focuses on sustainable energy harvesting by converting the kinetic 
 Built around an **Arduino Uno**, the system utilizes **piezoelectric transducers** to capture mechanical stress from footsteps, rectify the output, and store the energy in a **lithium-ion battery**. This stored energy is then used to power low-voltage electronics, demonstrating a viable method for renewable energy generation in high-traffic areas.
 
 
-## 🛠️ Hardware Components
+## Hardware Components
 
 | Category | Component | Details |
 | :--- | :--- | :--- |
@@ -51,9 +51,9 @@ Construct the hardware connections following the schematic provided in `Circuit.
 
 ## Future Improvements
 
-- [ ] **Optimization:** Refine the piezoelectric array configuration for higher voltage efficiency per step.
-- [ ] **Supercapacitors:** Integrate supercapacitors for faster charge/discharge cycles compared to Li-Ion batteries.
-- [ ] **Ruggedization:** Develop a durable, weather-resistant enclosure for the sensor pad to ensure long-term durability in outdoor environments.
+-  **Optimization:** Refine the piezoelectric array configuration for higher voltage efficiency per step.
+-  **Supercapacitors:** Integrate supercapacitors for faster charge/discharge cycles compared to Li-Ion batteries.
+-  **Ruggedization:** Develop a durable, weather-resistant enclosure for the sensor pad to ensure long-term durability in outdoor environments.
 
 
 
